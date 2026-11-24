@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tollplazanearme.pages.dev/sitemap.xml
